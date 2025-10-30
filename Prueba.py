@@ -158,6 +158,7 @@ if name == "Daniel" or name == "Matias" or name == "Mori" or name == "Maxi" or n
                                                     #condicional que hace al usuario avanzar al final del test donde dependiendo de las opciones se muestre un mensaje u otro
                                                     if Prueba5 == "Yo" or Prueba5 =="...":
                                                         st.title("Haz terminado el test Non es Solus!, un poco más abajo podras saber tus resultados")
+                                                        st.image("chile.jpg", caption = "Pagina financiada por el gobierno de Chile")
                                                         if dios == "Si" and armas == "Si" and melancolia == "No" and vida == "Si" and Prueba1 == "Imagen 2" and Prueba2 == "Imagen 1" and Prueba3 == "Imagen 2" and Prueba4 == "Imagen 1":
                                                             st.title("¡Estas totalmente preparado para sobrevivir, eres increible!")
                                                             st.write("Solo el 0,0000000000000000001 de la población Chilena ha pasado este test exitosamente, ¡eres más habil que un militar!, si quieres seguir explorando la pagina revisa nuestra función de calculo de grasa")
@@ -179,4 +180,5 @@ if name == "Daniel" or name == "Matias" or name == "Mori" or name == "Maxi" or n
         
 #linea que muestra un mensaje cuando el usuario ponga un nombre no permitido    
 else:
+
     st.write("¿Por qué estas aqui", name,"?")
