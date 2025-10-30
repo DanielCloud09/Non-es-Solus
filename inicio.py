@@ -1,7 +1,7 @@
 #Linea para importar la biblioteca streamlit
 import streamlit as st
 #linea para escribir un titulo
-st.title("TEST DE ALTERNOS")
+st.title("TEST Non es Solus")
 #linea de subtitulo
 st.markdown("Proyecto inspirado en el universo del Mandela Catalogue, no apto para asustadisos, niños, tontitos, personas de bajo intelecto, enfermos cardiacos, enfermos terminales y loquitos, ademas de estar dirigido especialmente para las personas(especificamente danieles, matias, maximilianos y gonzalos) de la region metropólitana pero tambien para el resto de Chile como precaucion, ademas de tener un apartado de conocimiento sobre la grasa para los interesados que hayan pasado el test de alternos. ")
 
@@ -36,6 +36,7 @@ st.write(
     - Calcular tu porcentaje de grasa y aasegurar por las dudas de que no eres un alterno.
     """
 )
+
 
 
 
