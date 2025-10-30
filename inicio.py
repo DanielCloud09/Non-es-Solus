@@ -3,7 +3,7 @@ import streamlit as st
 #linea para escribir un titulo
 st.title("TEST DE ALTERNOS")
 #linea de subtitulo
-st.markdown("Proyecto inspirado en el universo del Mandela Catalogue, no apto para asustadisos, niños, tontitos, personas de bajo intelecto, enfermos cardiacos, enfermos terminales y loquitos, ademas de estar dirigido especialmente para las personas(especificamente:danieles, matias y maximilianos) de la region metropólitana pero tambien para el resto de Chile como precaucion. ")
+st.markdown("Proyecto inspirado en el universo del Mandela Catalogue, no apto para asustadisos, niños, tontitos, personas de bajo intelecto, enfermos cardiacos, enfermos terminales y loquitos, ademas de estar dirigido especialmente para las personas(especificamente danieles, matias, maximilianos y gonzalos) de la region metropólitana pero tambien para el resto de Chile como precaucion. ")
 
 # Imagen de portada
 st.image("mand.jpg", caption="**Ellos se ven como nosotros...**")
@@ -35,4 +35,5 @@ st.write(
     - Participar en **simulaciones interactivas** donde tus decisiones determinarán tu destino.
     """
 )
+
 
